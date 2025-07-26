@@ -62,9 +62,15 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'elegant-navy': '#2C3E50',
-				'warm-cream': '#E8D5C4',
-				'luxury-brown': '#8B4513'
+				'bubble-pink': '#FF6B9D',
+				'mint-green': '#7FDBDA',
+				'soft-lavender': '#A8E6CF',
+				'sunshine-yellow': '#FFD93D',
+				'powder-blue': '#B4C7D9',
+				'coral-orange': '#FF8E80',
+				'cream-white': '#FFF8F0',
+				'deep-purple': '#6C5CE7',
+				'warm-gray': '#74798C'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
